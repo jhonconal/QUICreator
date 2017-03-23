@@ -1,0 +1,2 @@
+# QUICreator
+Qt
